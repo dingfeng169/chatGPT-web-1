@@ -8,7 +8,7 @@
 
 
 
-- [笔者案例 - 我用AI帮我完成了单子](https://52caiji.com/posts/other/developer-use-openai.html)
+- [没有账号？点击获取一个吧！](https://www.gmailbuying.com/c/qk2od2doc3fejopw76c8) 分别有5$号 18$号
 
 ## 更新日志：
 03-04：支持代理，环境变量`HTTPS_PROXY`，如`HTTPS_PROXY=http://127.0.0.1:7890`，如果不需要代理，可以不设置。
